@@ -13,5 +13,6 @@ public class git_test01 {
         System.out.println("mater test!");
         System.out.println("hot-fix test");
         System.out.println("push test");
+        System.out.println("pull test");
     }
 }
